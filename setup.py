@@ -7,8 +7,8 @@ setup(
   description = 'A module to print (pixelated) jpg images in the python console',
   author = 'Sebastien Lorentz',
   author_email = 'sebastien8lorentz@gmail.com',
-  url = 'https://github.com/gaba5/image2console',
-  download_url = 'https://github.com/gaba5/image2console/archive/1.2.tar.gz',
+  url = 'https://github.com/gaba5/Image2Console',
+  download_url = 'https://github.com/gaba5/Image2Console/archive/1.0.tar.gz',
   keywords = ['Image', 'Print', 'Image in console'],
   install_requires=[
           'colr',
