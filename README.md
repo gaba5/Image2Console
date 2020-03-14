@@ -12,7 +12,7 @@ Image2console is a WIP python module that will allow you to print an image in yo
 
 ### Use
 >from image2console import string_text
-> print(string_text("YOUR_IMAGE.jpg",size*))
+>print(string_text("YOUR_IMAGE.jpg",size*))
 
 Size ranges from 1-100
 
