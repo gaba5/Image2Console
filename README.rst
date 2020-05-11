@@ -16,8 +16,9 @@ Installation
 Use
 ~~~
 
-    from image2console import string\_text
-    print(string\_text("YOUR\_IMAGE.jpg",size\*))
+   - from image2console import string\_text
+    
+   - print(string\_text("YOUR\_IMAGE.jpg",size\*))
 
 Size ranges from 1-100
 
